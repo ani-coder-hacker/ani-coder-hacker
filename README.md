@@ -1,13 +1,6 @@
 ## Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src='https://img.shields.io/badge/OS-Windows-blue?logo=windows&style=flat-square'>
-<img src='https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu&style=flat-square'>
-<img src='https://img.shields.io/badge/Code-Python-blue?logo=python&style=flat-square'>
-<img src='https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual+studio+code&style=flat-square'>
-<img src="https://img.shields.io/badge/Tools-Django-blue?logo=django&style=flat-square">
-<img src="https://img.shields.io/badge/Code-HTML-blue?logo=html5&style=flat-square">
-<img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&style=flat-square">
-<img scr="https://img.shields.io/badge/Code-JS-blue?logo=javascript&style=flat-square">
+<img src='https://img.shields.io/badge/OS-Windows-blue?logo=windows&style=flat-square'><img src='https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu&style=flat-square'><img src='https://img.shields.io/badge/Code-Python-blue?logo=python&style=flat-square'><img src='https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual+studio+code&style=flat-square'><img src="https://img.shields.io/badge/Tools-Django-blue?logo=django&style=flat-square"><img src="https://img.shields.io/badge/Code-HTML-blue?logo=html5&style=flat-square"><img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&style=flat-square"><img scr="https://img.shields.io/badge/Code-JS-blue?logo=javascript&style=flat-square">
 
 
 I am Anirudh Prabhakaran, a student from India. I've worked on projects involving C++, Python, HTML, JS, CSS and Django.
