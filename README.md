@@ -9,6 +9,6 @@ Right now, learning Linear Algebra, theoretical Computer Science, Machine Learni
 
 In my free time, I write, play the keyboard, sing, make music and play Kerbal Space Program.
 
-[![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=ani-coder-hacker&count_private=true&show_icons=true&theme=tokyonight)]
+![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=ani-coder-hacker&count_private=true&show_icons=true&theme=tokyonight)
 
 Lets get in touch! Visit me on [Instagram](https://www.instagram.com/anirudhprabhakaran), [Twitter](https://twitter.com/anirudhthebear), [YouTube](https://www.youtube.com/channel/UCCbH3ofq1Mmshyh7SadqKWw) and [Wattpad](https://www.wattpad.com/user/anirudhprabhakaran).
